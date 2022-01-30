@@ -3,7 +3,7 @@
 I am a Haxe and GameMaker: Studio 2 enthusiast and hobbyist animator. I migrated from Adobe AIR and flash and never looked back (unless I have to maintain the old as3 projects that have not been migrated yet). 
 
 You can see more of my side projects:
-* Github : [public repositories](https://github.com/harpwood?tab=repositories)
+* Github : [public repositories](https://github.com/harpwood?tab=repositories) and [gists](https://gist.github.com/harpwood)
 * twiter : [@GeorgeHarpwood](https://twitter.com/GeorgeHarpwood)
 * itch.io : [Harpwood Studio](https://harpwood.itch.io/)
 
