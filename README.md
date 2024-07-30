@@ -4,7 +4,7 @@ I am a Haxe and GameMaker: Studio 2 enthusiast. I am also a hobbyist animator. I
 
 You can see more of my side projects:
 * Github : [public repositories](https://github.com/harpwood?tab=repositories) and [gists](https://gist.github.com/harpwood)
-* twiter : [@harpwood_studio]([https://twitter.com/GeorgeHarpwood](https://x.com/harpwood_studio))
+* twiter : [@harpwood_studio]([https://twitter.com/GeorgeHarpwood](https://x.com/harpwood_studio)
 * itch.io : [Harpwood Studio](https://harpwood.itch.io/)
 
 <!--
